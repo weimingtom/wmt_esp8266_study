@@ -31,3 +31,4 @@ Choose board 'NodeMCU 1.0 (ESP-12E Module)' in Arduino IDE for new nodemcu devki
 https://github.com/nodemcu/nodemcu-devkit-v1.0  
 https://github.com/nodemcu/nodemcu-devkit  
 http://wiki.ai-thinker.com/esp8266/boards/nodemcu  
+http://wiki.ai-thinker.com/esp32/boards/nodemcu_32s  
