@@ -32,3 +32,6 @@ https://github.com/nodemcu/nodemcu-devkit-v1.0
 https://github.com/nodemcu/nodemcu-devkit  
 http://wiki.ai-thinker.com/esp8266/boards/nodemcu  
 http://wiki.ai-thinker.com/esp32/boards/nodemcu_32s  
+
+## oled  
+https://github.com/squix78/esp8266-oled-ssd1306  
