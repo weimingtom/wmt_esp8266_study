@@ -35,3 +35,7 @@ http://wiki.ai-thinker.com/esp32/boards/nodemcu_32s
 
 ## oled  
 https://github.com/squix78/esp8266-oled-ssd1306  
+
+## esp32  
+http://esp32.net  
+https://github.com/G6EJD  
