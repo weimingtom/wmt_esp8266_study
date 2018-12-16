@@ -4,6 +4,10 @@ My ESP8266 study
 ## doc  
 * ref  
 https://docs.espressif.com/projects/esp-idf/en/latest/index.html  
+* 安信可-NodeMCU 核心开发板  
+https://wiki.ai-thinker.com/esp8266/boards/nodemcu  
+* 安信可-NodeMCU-32S 核心开发板  
+https://wiki.ai-thinker.com/esp32/boards/nodemcu_32s  
 
 ## Ref  
 * nodemcu：  
