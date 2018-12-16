@@ -8,6 +8,8 @@ https://docs.espressif.com/projects/esp-idf/en/latest/index.html
 https://wiki.ai-thinker.com/esp8266/boards/nodemcu  
 * 安信可-NodeMCU-32S 核心开发板  
 https://wiki.ai-thinker.com/esp32/boards/nodemcu_32s  
+* ESP8266 ESP32  
+https://github.com/SmartArduino/SZDOITWiKi/wiki/ESP8266---ESP32  
 
 ## Ref  
 * nodemcu：  
