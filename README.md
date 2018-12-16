@@ -47,3 +47,5 @@ https://wifiboy.club/topic/59/3d-rendering-test-on-wifiboy32
 ## wifiboy  
 https://wifiboy.org  
 
+## 乐鑫Esp32学习之旅  
+https://blog.csdn.net/xh870189248/article/details/80208099  
