@@ -1,0 +1,16 @@
+9月22日 15:10 来自 微博 weibo.com 已编辑
+
+今天把esp8266 for Arduino IDE的最简单例子blink跑通了（自带例子，可以在安装好esp8266插件后在文件>示例中找到），有几个问题：
+问题1，安装插件，这个本来是要开代理才能下载的，不过我之前做了个镜像，在本地搭镜像服务器，所以很容易就安装了；
+问题2，编译程序会出现这样的错误bits/c++config.h: No such file or directory，据说是因为插件不支持xp的bug，
+解决方法是把Arduino IDE改成绿色版模式，参考这里：
+https://www.esp8266.com/viewtopic.php?p=41432
+https://www.instructables.com/id/Portable-installation-guide-of-Arduino-IDE-v165-fo/
+其实就是先备份好全局配置文件夹，例如我是在
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Arduino15
+然后在ide的安装目录下创建一个Portable目录，把上面目录里面的内容复制到Portable目录中，然后重启，
+程序就会把配置切换到Portable目录中，然后重新安装IDE的esp8266插件。
+问题3，怎么选择IDE中的开发板类型，我选择了NodeMCU 1.0 (ESP-12E Module)，可以看到效果，
+但是如果选择其他，例如NodeMCU 0.9，则无法看到开发板上闪烁灯的效果。
+总体来说，这个esp8266 for Arduino IDE还是很好用的，关键是有很多例子可以参考，
+但毕竟不是官方IDE，所以可能无法发挥esp8266的全部功能，但已经非常方便了
