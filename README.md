@@ -1,6 +1,10 @@
 # wmt_esp8266_study
 My ESP8266 study
 
+## doc  
+* ref  
+https://docs.espressif.com/projects/esp-idf/en/latest/index.html  
+
 ## Ref  
 * nodemcu：  
 https://github.com/nodemcu/nodemcu-firmware/releases?after=1.5.1-master_20160603  
