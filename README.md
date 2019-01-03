@@ -35,7 +35,7 @@ https://github.com/mruby-esp32/mruby-esp32
 
 ## Problem  
 * bits/c++config.h: No such file or directory  
-Create Portable folder under exe folder  
+Create 'Portable' folder under exe folder  
 https://www.esp8266.com/viewtopic.php?p=41432  
 https://www.instructables.com/id/Portable-installation-guide-of-Arduino-IDE-v165-fo/  
 
