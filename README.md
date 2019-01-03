@@ -14,6 +14,23 @@ http://wiki.aithinker.com/esp32/boards/nodemcu_32s
 * ESP8266 ESP32  
 https://github.com/SmartArduino/SZDOITWiKi/wiki/ESP8266---ESP32  
 
+## Tools  
+* esp-idf (for esp32)    
+for windows, need msys2 (from dl.espressif.com) and esp-idf two parts      
+https://docs.espressif.com/projects/esp-idf/en/stable/get-started/windows-setup.html  
+https://dl.espressif.com/dl/esp32_win32_msys2_environment_and_toolchain-20180110.zip  
+https://docs.espressif.com/projects/esp-idf/en/stable/get-started/  
+$ cd ~/esp  
+$ git clone -b v3.1.2 --recursive https://github.com/espressif/esp-idf.git  
+
+* arduino plugin (for esp32)    
+https://dl.espressif.com/dl/package_esp32_index.json  
+
+* cdt (for esp8266, esp32)    
+http://wiki.aithinker.com/ai_ide_install  
+cygwin\opt\xtensa-lx106-elf  
+cygwin\opt\xtensa-esp32-elf  
+
 ## Ref  
 * nodemcu：  
 https://github.com/nodemcu/nodemcu-firmware/releases?after=1.5.1-master_20160603  
