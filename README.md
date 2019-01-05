@@ -1,18 +1,30 @@
 # wmt_esp8266_study
-My ESP8266 study
+My ESP8266 / ESP32 study  
 
 ## doc  
-* ref  
+* esp32 ref  
 https://docs.espressif.com/projects/esp-idf/en/latest/index.html  
 
-* 安信可-NodeMCU 核心开发板  
+* 安信可-NodeMCU 核心开发板, esp8266  
 http://wiki.aithinker.com/esp8266/boards/nodemcu  
 
-* 安信可-NodeMCU-32S 核心开发板  
+* 安信可-NodeMCU-32S 核心开发板, esp32    
 http://wiki.aithinker.com/esp32/boards/nodemcu_32s  
 
 * ESP8266 ESP32  
 https://github.com/SmartArduino/SZDOITWiKi/wiki/ESP8266---ESP32  
+
+* **ESP8266 on Arduino**  
+https://github.com/esp8266/Arduino/blob/master/doc/libraries.rst  
+**IMPORTANT**  
+
+## Soft WDT reset on ESP8266, Watch dog  
+Use ESP.wdtFeed() in while loop, use ESP.
+https://github.com/esp8266/Arduino/issues/34  
+https://techtutorialsx.com/2017/01/21/esp8266-watchdog-functions/  
+https://github.com/esp8266/Arduino/blob/master/doc/libraries.rst  
+other reasons:  
+https://blog.csdn.net/chen244798611/article/details/51636058  
 
 ## Tools  
 * esp-idf (for esp32)    
