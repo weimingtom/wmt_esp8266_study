@@ -19,7 +19,7 @@ https://github.com/esp8266/Arduino/blob/master/doc/libraries.rst
 **IMPORTANT**  
 
 ## Soft WDT reset on ESP8266, Watch dog  
-* Use ESP.wdtFeed() in while loop
+* Use ESP.wdtFeed() in while loop  
 https://github.com/esp8266/Arduino/issues/34  
 https://techtutorialsx.com/2017/01/21/esp8266-watchdog-functions/  
 https://github.com/esp8266/Arduino/blob/master/doc/libraries.rst  
