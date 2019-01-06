@@ -21,6 +21,10 @@ https://github.com/esp8266/Arduino/blob/master/doc/libraries.rst
 * ESP8266 Arduino 2.2.0  
 https://esp8266.github.io/Arduino/versions/2.2.0/doc/installing.html  
 
+## TFT Drivers  
+http://www.lcdwiki.com/zh/【Application】1.44inch_SPI_Module_MSP1443_with_D1_mini  
+http://www.lcdwiki.com/zh/【Application】1.6inch_SPI_Module_MSP1601_with_D1_mini  
+
 ## Soft WDT reset on ESP8266, Watch dog  
 * Use ESP.wdtFeed() in while loop  
 https://github.com/esp8266/Arduino/issues/34  
