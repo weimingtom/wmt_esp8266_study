@@ -1,6 +1,15 @@
 # wmt_esp8266_study
 My ESP8266 / ESP32 study  
 
+## Arduino version flash and sram size:  
+* esp8266, NodeMCU 1.0 (ESP-12E Module), Arduino:  
+	Flash: 1044464=1019KB
+	SRAM: 81920=80KB
+ 
+* esp32, nodemcu-32s, Arduino:  
+	Flash: 1310720=1280KB  
+	SRAM: 327680=320KB  
+
 ## doc  
 * esp32 ref  
 https://docs.espressif.com/projects/esp-idf/en/latest/index.html  
