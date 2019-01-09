@@ -118,3 +118,6 @@ https://github.com/InfiniteYuan1/esp32-ugfx-gui
 
 ## esp32_gme  
 https://github.com/lexus2k/esp32_gme  
+
+## go-play  
+https://github.com/OtherCrashOverride/go-play  
