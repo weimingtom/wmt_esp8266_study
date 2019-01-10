@@ -125,3 +125,6 @@ https://github.com/lexus2k/esp32_gme
 
 ## go-play  
 https://github.com/OtherCrashOverride/go-play  
+
+## esp32_ST7735_Tetris  
+https://github.com/MhageGH/esp32_ST7735_Tetris  
