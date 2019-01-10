@@ -10,7 +10,7 @@ My ESP8266 / ESP32 study
 	Flash: 1310720=1280KB  
 	SRAM: 327680=320KB  
 	
-* MTK LinkIt 7697 for Arduino，编译一个代码试试：
+* MTK LinkIt 7697 for Arduino:  
 	Flash: 2019328=1972KB  
 	SRAM: 360448=354KB  
 
