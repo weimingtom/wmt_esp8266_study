@@ -67,6 +67,17 @@ http://wiki.aithinker.com/ai_ide_install
 cygwin\opt\xtensa-lx106-elf  
 cygwin\opt\xtensa-esp32-elf  
 
+* FLASH_DOWNLOAD_TOOLS  
+<> for esp32  
+(baidupan) FLASH_DOWNLOAD_TOOLS_V3.6.2.2_v1_good.rar  
+<> for esp8266  
+(baidupan) nodemcu_v2.rar  
+(baidupan) ESP8266Flasher.exe  
+
+* esplorer  
+<> for esp32, esp8266    
+(baidupan) esplorer_v1.rar  
+
 ## Ref  
 * nodemcu：  
 https://github.com/nodemcu/nodemcu-firmware/releases?after=1.5.1-master_20160603  
