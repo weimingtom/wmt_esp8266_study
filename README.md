@@ -14,7 +14,7 @@ My ESP8266 / ESP32 study
 	Flash: 2019328=1972KB  
 	SRAM: 360448=354KB  
 
-* RTL8710AF  	
+* RTL8710AF  
 	Flash: ???  
 	SRAM: ???  
 	
