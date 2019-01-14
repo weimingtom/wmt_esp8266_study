@@ -39,6 +39,9 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 * ESP8266 Arduino 2.2.0  
 https://esp8266.github.io/Arduino/versions/2.2.0/doc/installing.html  
 
+* ESP-IDF Programming Guide  
+https://docs.espressif.com/projects/esp-idf/en/latest/index.html  
+
 ## TFT Drivers  
 http://www.lcdwiki.com/zh/【Application】1.44inch_SPI_Module_MSP1443_with_D1_mini  
 http://www.lcdwiki.com/zh/【Application】1.6inch_SPI_Module_MSP1601_with_D1_mini  
