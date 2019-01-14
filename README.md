@@ -82,6 +82,9 @@ cygwin\opt\xtensa-esp32-elf
 <> for esp32, esp8266    
 (baidupan) esplorer_v1.rar  
 
+## Download  
+http://wiki.ai-thinker.com/esp_download  
+
 ## Ref  
 * nodemcu：  
 https://github.com/nodemcu/nodemcu-firmware/releases?after=1.5.1-master_20160603  
