@@ -48,6 +48,9 @@ https://www.espressif.com/zh-hans/products/hardware/esp32/resources
 * ESP32 技术参考手册 (pdf)    
 https://www.espressif.com/sites/default/files/documentation/esp32_technical_reference_manual_cn.pdf  
 
+* ESP32 常见问题 (pdf)  
+https://www.espressif.com/sites/default/files/documentation/ESP32_FAQs__CN.pdf  
+
 ## TFT Drivers  
 http://www.lcdwiki.com/zh/【Application】1.44inch_SPI_Module_MSP1443_with_D1_mini  
 http://www.lcdwiki.com/zh/【Application】1.6inch_SPI_Module_MSP1601_with_D1_mini  
