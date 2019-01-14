@@ -42,6 +42,9 @@ https://esp8266.github.io/Arduino/versions/2.2.0/doc/installing.html
 * ESP-IDF Programming Guide  
 https://docs.espressif.com/projects/esp-idf/en/latest/index.html  
 
+* ESP32 技术参考手册 (pdf)    
+https://www.espressif.com/sites/default/files/documentation/esp32_technical_reference_manual_cn.pdf  
+
 ## TFT Drivers  
 http://www.lcdwiki.com/zh/【Application】1.44inch_SPI_Module_MSP1443_with_D1_mini  
 http://www.lcdwiki.com/zh/【Application】1.6inch_SPI_Module_MSP1601_with_D1_mini  
