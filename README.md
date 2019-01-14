@@ -42,6 +42,9 @@ https://esp8266.github.io/Arduino/versions/2.2.0/doc/installing.html
 * ESP-IDF Programming Guide  
 https://docs.espressif.com/projects/esp-idf/en/latest/index.html  
 
+* ESP32 资源  
+https://www.espressif.com/zh-hans/products/hardware/esp32/resources  
+
 * ESP32 技术参考手册 (pdf)    
 https://www.espressif.com/sites/default/files/documentation/esp32_technical_reference_manual_cn.pdf  
 
