@@ -150,3 +150,8 @@ https://www.amebaiot.com/cn/ameba-arduino-getting-started/
 https://blog.csdn.net/lvj_158/article/details/51234751  
 https://www.amebaiot.com/cn/  
 
+## StudyInEsp32  
+https://github.com/xuhongv/StudyInEsp32  
+https://blog.csdn.net/xh870189248/article/details/80524714  
+
+
