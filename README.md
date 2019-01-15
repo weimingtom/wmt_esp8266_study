@@ -164,6 +164,8 @@ https://www.amebaiot.com/cn/ameba-arduino-getting-started-rtl8710/
 https://www.amebaiot.com/cn/ameba-arduino-getting-started/  
 https://blog.csdn.net/lvj_158/article/details/51234751  
 https://www.amebaiot.com/cn/  
+SWD模式下下载调试程序  
+http://blog.sina.com.cn/s/blog_7ca994b801019ub1.html  
 
 ## StudyInEsp32  
 https://github.com/xuhongv/StudyInEsp32  
