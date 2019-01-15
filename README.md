@@ -16,7 +16,7 @@ My ESP8266 / ESP32 study
 
 * RealTek Ameba RTL8710AF  
 	Flash: 1048576=1024KB  
-	SRAM: 21504=21KB (???)      
+	SRAM: 512KB (from en.wikipedia.org) 21504=21KB (???)      
 	
 ## doc  
 * esp32 ref  
