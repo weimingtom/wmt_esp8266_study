@@ -176,3 +176,7 @@ https://blog.csdn.net/xh870189248/article/details/80524714
 ## esp32-iot-uno    
 https://github.com/esp32vn/esp32-iot-uno  
 
+## esp32-devkit  
+https://www.sparkfun.com/news/2017  
+https://github.com/CHERTS/esp32-devkit  
+
