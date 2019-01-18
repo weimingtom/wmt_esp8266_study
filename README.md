@@ -193,3 +193,7 @@ https://wiki.odroid.com/odroid_go/odroid_go
 ## m5stack  
 https://docs.m5stack.com/  
 https://github.com/m5stack/M5Stack  
+
+## 庆科EMW3080学习之旅① 搭建开发环境，开始一个 “hellow world” 串口打印。   
+https://blog.csdn.net/xh870189248/article/details/81746138  
+http://developer.mxchip.com/handbooks/99  
