@@ -180,7 +180,12 @@ https://github.com/esp32vn/esp32-iot-uno
 https://www.sparkfun.com/news/2017  
 https://github.com/CHERTS/esp32-devkit  
 
-## pocketsprite  
+## PocketSprite Assembled    
+OLED screen, 25 x 22 mm, 96 x 64 px, cropped to 5:4 ratio, 60+ FPS  
 https://pocketsprite.com  
 https://github.com/PocketSprite  
 
+## odroid go  
+2.4inch 320×240 TFT LCD (SPI interface)  
+https://www.hardkernel.com/shop/odroid-go/  
+https://wiki.odroid.com/odroid_go/odroid_go  
