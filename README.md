@@ -197,3 +197,6 @@ https://github.com/m5stack/M5Stack
 ## 庆科EMW3080学习之旅① 搭建开发环境，开始一个 “hellow world” 串口打印。   
 https://blog.csdn.net/xh870189248/article/details/81746138  
 http://developer.mxchip.com/handbooks/99  
+
+## 墨星ESP32上手教程-MICROPYTHON  
+https://singtown.com/learn/48770/  
