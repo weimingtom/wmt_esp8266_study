@@ -1,4 +1,4 @@
-# wmt_esp8266_study
+﻿# wmt_esp8266_study
 My ESP8266 / ESP32 study  
 
 ## Arduino version flash and sram size:  
@@ -8,15 +8,15 @@ My ESP8266 / ESP32 study
  
 * esp32, nodemcu-32s, Arduino:  
 	Flash: 1310720=1280KB  
-	SRAM: 327680=320KB  
+	SRAM: 327680=320KB (in fact about 80KB, for more use malloc)  
 	
 * MTK LinkIt 7697 for Arduino:  
 	Flash: 2019328=1972KB  
 	SRAM: 360448=354KB  
 
-* RTL8710AF  
-	Flash: ???  
-	SRAM: ???  
+* RealTek Ameba RTL8710AF  
+	Flash: 1048576=1024KB  
+	SRAM: 397KB (Arduino global array var max size)      
 	
 ## doc  
 * esp32 ref  
@@ -38,6 +38,18 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 * ESP8266 Arduino 2.2.0  
 https://esp8266.github.io/Arduino/versions/2.2.0/doc/installing.html  
+
+* ESP-IDF Programming Guide  
+https://docs.espressif.com/projects/esp-idf/en/latest/index.html  
+
+* ESP32 资源  
+https://www.espressif.com/zh-hans/products/hardware/esp32/resources  
+
+* ESP32 技术参考手册 (pdf)    
+https://www.espressif.com/sites/default/files/documentation/esp32_technical_reference_manual_cn.pdf  
+
+* ESP32 常见问题 (pdf)  
+https://www.espressif.com/sites/default/files/documentation/ESP32_FAQs__CN.pdf  
 
 ## TFT Drivers  
 http://www.lcdwiki.com/zh/【Application】1.44inch_SPI_Module_MSP1443_with_D1_mini  
@@ -81,6 +93,9 @@ cygwin\opt\xtensa-esp32-elf
 * esplorer  
 <> for esp32, esp8266    
 (baidupan) esplorer_v1.rar  
+
+## Download  
+http://wiki.ai-thinker.com/esp_download  
 
 ## Ref  
 * nodemcu：  
@@ -144,5 +159,44 @@ https://github.com/OtherCrashOverride/go-play
 ## esp32_ST7735_Tetris  
 https://github.com/MhageGH/esp32_ST7735_Tetris  
 
-## m5stack ui flow  
-http://flow.m5stack.com    
+## rtl / Ameba IoT    
+https://www.amebaiot.com/cn/ameba-arduino-getting-started-rtl8710/  
+https://www.amebaiot.com/cn/ameba-arduino-getting-started/  
+https://blog.csdn.net/lvj_158/article/details/51234751  
+https://www.amebaiot.com/cn/  
+SWD模式下下载调试程序  
+http://blog.sina.com.cn/s/blog_7ca994b801019ub1.html  
+PADUINO Padi Stamp Photo Blog with SWD and CH340g  
+https://forum.pine64.org/showthread.php?tid=5111  
+
+## StudyInEsp32  
+https://github.com/xuhongv/StudyInEsp32  
+https://blog.csdn.net/xh870189248/article/details/80524714  
+
+## esp32-iot-uno    
+https://github.com/esp32vn/esp32-iot-uno  
+
+## esp32-devkit  
+https://www.sparkfun.com/news/2017  
+https://github.com/CHERTS/esp32-devkit  
+
+## PocketSprite Assembled    
+OLED screen, 25 x 22 mm, 96 x 64 px, cropped to 5:4 ratio, 60+ FPS  
+https://pocketsprite.com  
+https://github.com/PocketSprite  
+
+## odroid go  
+2.4inch 320×240 TFT LCD (SPI interface)  
+https://www.hardkernel.com/shop/odroid-go/  
+https://wiki.odroid.com/odroid_go/odroid_go  
+
+## m5stack  
+https://docs.m5stack.com/  
+https://github.com/m5stack/M5Stack  
+
+## 庆科EMW3080学习之旅① 搭建开发环境，开始一个 “hellow world” 串口打印。   
+https://blog.csdn.net/xh870189248/article/details/81746138  
+http://developer.mxchip.com/handbooks/99  
+
+## 墨星ESP32上手教程-MICROPYTHON  
+https://singtown.com/learn/48770/  
