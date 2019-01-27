@@ -204,3 +204,8 @@ https://singtown.com/learn/48770/
 ## m5stack ui flow  
 http://flow.m5stack.com    
 
+## Noduino  
+http://wiki.jackslab.org/Noduino  
+http://wiki.jackslab.org/ESP32_JTAG  
+https://github.com/noduino/Noduino  
+https://github.com/noduino/Noduino-Falcon-Board  
