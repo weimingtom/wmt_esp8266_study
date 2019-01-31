@@ -212,3 +212,6 @@ https://github.com/noduino/Noduino-Falcon-Board
 
 ## esp32-gameboy  
 https://github.com/lualiliu/esp32-gameboy  
+
+## Duke3D, sdl port  
+https://github.com/jkirsons/Duke3D/blob/master/components/SDL/SDL_video.h  
