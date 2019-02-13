@@ -221,3 +221,6 @@ https://github.com/LilyGO
 
 ## Wifiduino  
 https://wifiduino.com  
+
+## ESP32 WROVER  
+http://www.raspberrypiwiki.com/index.php/ESP32_WROVER-i_DevKit  
