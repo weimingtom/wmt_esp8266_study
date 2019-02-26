@@ -224,3 +224,7 @@ https://wifiduino.com
 
 ## ESP32 WROVER  
 http://www.raspberrypiwiki.com/index.php/ESP32_WROVER-i_DevKit  
+
+## 红旭ESP32  
+https://github.com/xiaolongba/HX_DK_FOR_ESP32/tree/master/红旭ESP32开发指南-PDF  
+https://github.com/xiaolongba/HX_DK_FOR_NORDIC_52840_BLE/tree/master/软件/红旭无线开发板实战教程/入门教程/ESP32  
