@@ -235,3 +235,6 @@ http://mixly.org
 ## 74HC595, ILI9481 (???)  
 https://github.com/ioxhop/Adafruit-ILI9481-ESP32-SPI  
 
+## gamebadge  
+https://github.com/osresearch/gamebadge  
+https://trmm.net/Gamebadge  
