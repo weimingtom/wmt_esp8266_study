@@ -238,3 +238,6 @@ https://github.com/ioxhop/Adafruit-ILI9481-ESP32-SPI
 ## gamebadge  
 https://github.com/osresearch/gamebadge  
 https://trmm.net/Gamebadge  
+
+## 常用的ESP32开发板  
+http://bbs.eeworld.com.cn/thread-1067813-1-1.html  
