@@ -244,3 +244,7 @@ https://trmm.net/Gamebadge
 
 ## 常用的ESP32开发板  
 http://bbs.eeworld.com.cn/thread-1067813-1-1.html  
+
+## doit  
+http://bbs.doit.am/forum.php  
+https://github.com/SmartArduino/SZDOITWiKi/wiki/ESP8266---NodeMCU  
