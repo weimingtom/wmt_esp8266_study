@@ -18,6 +18,9 @@ My ESP8266 / ESP32 study
 	Flash: 1048576=1024KB  
 	SRAM: 397KB (Arduino global array var max size)      
 	
+* ESP8285, NodeMCU-M  
+	like ESP8266, but with 1MB Flash  
+	
 ## doc  
 * esp32 ref  
 https://docs.espressif.com/projects/esp-idf/en/latest/index.html  
