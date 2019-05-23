@@ -248,3 +248,7 @@ http://bbs.eeworld.com.cn/thread-1067813-1-1.html
 ## doit  
 http://bbs.doit.am/forum.php  
 https://github.com/SmartArduino/SZDOITWiKi/wiki/ESP8266---NodeMCU  
+
+## ESP8266-3种模式用法  
+https://blog.csdn.net/weixin_40504976/article/details/84283320  
+https://blog.csdn.net/txf1984/article/details/46654995  
