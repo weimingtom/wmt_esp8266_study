@@ -1,0 +1,6 @@
+我又买了一个maix bit（套装），跟之前maix dock对比一下，有这些不同
+(1) maix bit默认装了micropython，maix dock有没有装micropython我没看，应该也是装了
+(2) maix bit的镜头是长的，maix dock的镜头是小的
+(3) maix bit的镜头排线接口是插拔式，LCD排线接口是铡刀式，而maix dock都是插拔式（铡刀那边不能用来卡住排线，被我掰坏了）
+(4) maix bit是焊好排针的，maix dock没有焊排针，如果想焊飞线的话最好买maix dock
+(5) maix bit有tf卡槽（传统的），不过没有引出全部排针。maix dock也有tf卡槽，只不过是小型悬高的tf卡槽（新的）
