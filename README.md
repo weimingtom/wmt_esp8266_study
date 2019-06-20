@@ -259,3 +259,6 @@ http://bbs.eeworld.com.cn/forum.php?mod=viewthread&tid=578648
 ## esp-12e折腾  
 https://www.cnblogs.com/katachi/p/8468772.html  
 
+## 菜鸟江涛带你学最小物联网系统之模块篇（01）—— WIFI模块ESP12F初次亲密接触  
+https://blog.csdn.net/u010898329/article/details/82833893  
+
