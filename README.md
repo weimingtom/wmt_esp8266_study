@@ -252,3 +252,6 @@ https://github.com/SmartArduino/SZDOITWiKi/wiki/ESP8266---NodeMCU
 ## ESP8266-3种模式用法  
 https://blog.csdn.net/weixin_40504976/article/details/84283320  
 https://blog.csdn.net/txf1984/article/details/46654995  
+
+## 从焊接到刷固件打造micropython最小系统  
+http://bbs.eeworld.com.cn/forum.php?mod=viewthread&tid=578648  
