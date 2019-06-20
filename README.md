@@ -264,3 +264,6 @@ https://blog.csdn.net/u010898329/article/details/82833893
 
 ## ESP8266-12F WIFI转串口模块底板设计  
 https://blog.csdn.net/xiaohupashu/article/details/53574859  
+
+## ESP8266 常见问题, 安信可    
+https://wiki.ai-thinker.com/esp8266/faq  
