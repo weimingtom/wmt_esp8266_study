@@ -255,3 +255,7 @@ https://blog.csdn.net/txf1984/article/details/46654995
 
 ## 从焊接到刷固件打造micropython最小系统  
 http://bbs.eeworld.com.cn/forum.php?mod=viewthread&tid=578648  
+
+## esp-12e折腾  
+https://www.cnblogs.com/katachi/p/8468772.html  
+
