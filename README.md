@@ -270,3 +270,8 @@ https://wiki.ai-thinker.com/esp8266/faq
 
 ## esp8266 Summary Table  
 https://www.esp8266.com/wiki/doku.php?id=esp8266-module-family  
+
+## 初试Arduino IDE for ESP32  
+http://blog.windworkshop.net/?p=1277  
+烧写的方式和ESP8266相似，板子上的BOOT键就是GPIO0，烧写前按住BOOT，再按一次RST就可以进入烧写模式了，这时可以松开BOOT等待烧写进去了，这个是我的做法，官方的方法是一只按住BOOT键直到烧写完成  
+
