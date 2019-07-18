@@ -278,4 +278,6 @@ http://blog.windworkshop.net/?p=1277
 ## MicroPython_ESP32_psRAM_LoBo  
 https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo  
 
+## esp32-projects  
+https://github.com/tidyjiang8/esp32-projects  
 
