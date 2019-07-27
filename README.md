@@ -22,7 +22,7 @@ My ESP8266 / ESP32 study
 	like ESP8266, but with 1MB Flash  
 	
 ## ESP-12f breakout board    
-**blink code: pinMode(13, OUTPUT);**    
+**esp8266 blink code: pinMode(13, OUTPUT);**    
 RESET<->3.3V (can always 3.3V)    
 CH_PC<->3.3V  
 GPIO13<->LED+R<->GND (for blink code)    
