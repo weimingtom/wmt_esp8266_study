@@ -25,7 +25,7 @@ My ESP8266 / ESP32 study
 **esp8266 blink code: pinMode(13, OUTPUT);**    
 RESET<->3.3V (can always 3.3V)    
 CH_PC<->3.3V  
-GPIO13<->LED+R<->GND (for blink code)    
+GPIO13<->LED<->200R<->GND (for blink code)    
 VCC<->3.3V  
 TXD<->RX  
 RXD<->TX  
