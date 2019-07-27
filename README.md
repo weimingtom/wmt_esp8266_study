@@ -21,6 +21,19 @@ My ESP8266 / ESP32 study
 * ESP8285, NodeMCU-M  
 	like ESP8266, but with 1MB Flash  
 	
+## ESP-12f breakout board    
+**blink code: pinMode(13, OUTPUT);**    
+RESET<->3.3V (can always 3.3V)    
+CH_PC<->3.3V  
+GPIO13<->LED+R<->GND (for blink code)    
+VCC<->3.3V  
+TXD<->RX  
+RXD<->TX  
+GPIO0<->GND (if not burning, connect 3.3V to run blink code)   
+GPIO15<->GND  
+GND<->GND  
+(need some connected pins for common 3.3V and common GND)  
+
 ## doc  
 * esp32 ref  
 https://docs.espressif.com/projects/esp-idf/en/latest/index.html  
