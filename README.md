@@ -294,3 +294,6 @@ https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo
 ## esp32-projects  
 https://github.com/tidyjiang8/esp32-projects  
 
+## midTbot_esp32  
+https://github.com/bdring/midTbot_esp32  
+
