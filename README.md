@@ -297,3 +297,7 @@ https://github.com/tidyjiang8/esp32-projects
 ## midTbot_esp32  
 https://github.com/bdring/midTbot_esp32  
 
+## RuiSantosdotme/ESP32-Weather-Shield-PCB  
+https://github.com/RuiSantosdotme/ESP32-Weather-Shield-PCB  
+https://randomnerdtutorials.com/build-an-all-in-one-esp32-weather-station-shield/  
+
