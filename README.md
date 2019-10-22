@@ -307,3 +307,5 @@ https://github.com/eggfly/WatchIO
 ## TFT_eSPI  
 https://github.com/Bodmer/TFT_eSPI  
 
+## AutoConnect  
+https://github.com/Hieromon/AutoConnect  
