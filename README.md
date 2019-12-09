@@ -313,3 +313,6 @@ https://github.com/Hieromon/AutoConnect
 ## DSTIKE Deauther MINI ESP8266 WIFI 开发板 OLED NodeMCU     
 硬件： https://github.com/lspoplove/Deauther-Project  
 软件：  https://github.com/spacehuhn/esp8266_deauther  
+
+## WLED  
+https://github.com/Aircoookie/WLED  
