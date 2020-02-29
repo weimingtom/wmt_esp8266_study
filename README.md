@@ -316,3 +316,6 @@ https://github.com/Hieromon/AutoConnect
 
 ## WLED  
 https://github.com/Aircoookie/WLED  
+
+## Meshtastic-esp32  
+https://github.com/geeksville/Meshtastic-esp32  
