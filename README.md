@@ -319,3 +319,6 @@ https://github.com/Aircoookie/WLED
 
 ## Meshtastic-esp32  
 https://github.com/geeksville/Meshtastic-esp32  
+
+## esp32 littlevgl  
+https://github.com/espressif/esp-iot-solution/blob/master/documents/hmi_solution/littlevgl/littlevgl_guide_cn.md  
