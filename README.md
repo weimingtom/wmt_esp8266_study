@@ -330,4 +330,5 @@ D1-MINI资料\ESP8266开发板连wifi点灯测试程序\sketch_jun07a.ino
 * search baidupan : 信泰微_ESP8266套装, ESP8266物联网教程  
 (TODO) 无法在真机上看到运行效果, 待考(基于安信可的IDE)  
 
-
+* search baidupan : esp-12f_信泰微  
+烧录方法   
