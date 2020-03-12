@@ -326,6 +326,8 @@ https://github.com/espressif/esp-iot-solution/blob/master/documents/hmi_solution
 ## Arduino esp8266 IoT物联网示例代码（重要）  
 * search baidupan : mini D1 PRO升级版_信泰微/D1-MINI资料.rar   
 D1-MINI资料\ESP8266开发板连wifi点灯测试程序\sketch_jun07a.ino  
+https://iot-playground.com/blog/2-uncategorised/40-esp8266-wifi-relay-switch-arduino-ide  
+see [WiFiWebServer.ino](WiFiWebServer.ino)  
 
 * search baidupan : 信泰微_ESP8266套装, ESP8266物联网教程  
 (TODO) 无法在真机上看到运行效果, 待考(基于安信可的IDE)  
