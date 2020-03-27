@@ -337,4 +337,4 @@ see [sketch_jun07a.ino](sketch_jun07a.ino)
 烧录方法   
 
 ## 技小新esp8266开发板烧录方法：
-[jixin.txt](!jixin.txt)  
+[jixin.txt](jixin.txt)  
