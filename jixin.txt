@@ -6,17 +6,20 @@ https://www.jixin.pro/bbs/topic/6498
 2. 在安信可官网下载烧录和串口工具：http://wiki.ai-thinker.com/tools
 下载《flash_download_tools_v3.6.6.zip》和《aithinker_serial_tool_v1.2.3.7z》
 双击打开烧录软件flash_download_tools_v3.6.6.exe，然后根据pdf说的方法去配置。
-不过前面提到的上手体验那个pdf文档里面说的烧录方式不太准确，它只烧录了2个文件，正确的做法应该是烧录4个文件，并且必须保证前面的勾要勾上，否则烧录会很快，这是因为没有勾的缘故
+不过前面提到的上手体验那个pdf文档里面说的烧录方式不太准确，它只烧录了2个文件，正确的做法应该是烧录4个文件，
+并且必须保证前面的勾要勾上，否则烧录会很快，这是因为没有勾的缘故
 
-Eagle.flash.bin 0x00000
-Eagle.irom0text.bin 0x10000
-Esp_init_data_default_v08.bin 0x3FC000
-blank.bin 0x3FE000
+eagle.flash.bin                  0x00000
+eagle.irom0text.bin              0x10000
+esp_init_data_default_v08.bin    0x3FC000
+blank.bin                        0x3FE000
 
-其他选项照文档的说法去选，26M、40MHz、DOUT、32Mbit，注意还要选择COM口，然后点击START开始烧录，烧录完成后提示FINISH，然后按开发板上的RESET按钮重启开发板（可以用串口工具查看串口输出，看到OLED屏幕有显示）
+其他选项照文档的说法去选，26M、40MHz、DOUT、32Mbit，注意还要选择COM口，然后点击START开始烧录，
+烧录完成后提示FINISH，然后按开发板上的RESET按钮重启开发板（可以用串口工具查看串口输出，看到OLED屏幕有显示）
 4个文件的地址设置具体可以参考这篇文章（或者参考安信可的文档，也提及如何设置这四个文件的地址）
 https://blog.csdn.net/crjmail/article/details/77839622
-3. 如果运行失败（或者想看调试打印），可以用安信可的aithinker_serial_tool打开串口（注意选择正确的COM，其他的配置默认不用修改），如果有乱码不停输出，需要重新勾选和设置地址然后烧录4个文件
+3. 如果运行失败（或者想看调试打印），可以用安信可的aithinker_serial_tool打开串口
+（注意选择正确的COM，其他的配置默认不用修改），如果有乱码不停输出，需要重新勾选和设置地址然后烧录4个文件
 
 
 ------------------------
