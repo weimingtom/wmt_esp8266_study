@@ -1,0 +1,66 @@
+终于把信泰微的技小新esp8266开发板的固件运行起来了（没有编译过程），方法如下（之前失败是因为我只烧录了2个文件）
+1. 获取程序生成的固件和文档
+https://www.jixin.pro/bbs/topic/6498
+下载《34_SNTP_SmartConfig》，解压得到bin目录下的固件
+下载《8266物联网开发板_上手体验》，得到pdf文档8266物联网开发板_上手体验3.pdf
+2. 在安信可官网下载烧录和串口工具：http://wiki.ai-thinker.com/tools
+下载《flash_download_tools_v3.6.6.zip》和《aithinker_serial_tool_v1.2.3.7z》
+双击打开烧录软件flash_download_tools_v3.6.6.exe，然后根据pdf说的方法去配置。
+不过前面提到的上手体验那个pdf文档里面说的烧录方式不太准确，它只烧录了2个文件，正确的做法应该是烧录4个文件，并且必须保证前面的勾要勾上，否则烧录会很快，这是因为没有勾的缘故
+
+Eagle.flash.bin 0x00000
+Eagle.irom0text.bin 0x10000
+Esp_init_data_default_v08.bin 0x3FC000
+blank.bin 0x3FE000
+
+其他选项照文档的说法去选，26M、40MHz、DOUT、32Mbit，注意还要选择COM口，然后点击START开始烧录，烧录完成后提示FINISH，然后按开发板上的RESET按钮重启开发板（可以用串口工具查看串口输出，看到OLED屏幕有显示）
+4个文件的地址设置具体可以参考这篇文章（或者参考安信可的文档，也提及如何设置这四个文件的地址）
+https://blog.csdn.net/crjmail/article/details/77839622
+3. 如果运行失败（或者想看调试打印），可以用安信可的aithinker_serial_tool打开串口（注意选择正确的COM，其他的配置默认不用修改），如果有乱码不停输出，需要重新勾选和设置地址然后烧录4个文件
+
+
+------------------------
+
+
+ESP8266如何烧写程序（noboot版本）
+原创mail-mail 最后发布于2017-09-04 17:19:33 阅读数 6124  收藏
+展开
+ESP8266程序烧写
+Noboot模式，也就是不具备升级功能。
+
+硬件平台
+Nodemcu
+
+Wifi模组：
+安信可ESP-12系列，Flash为华邦的32M Flash。
+
+下载地址
+1、参考乐鑫的官方文档。《2a-esp8266-sdk_getting_started_guide_cn
+》
+以下为文档中的截图。
+
+
+从以上图片从我们可以得到如下信息：
+Bin名称 地址
+Eagle.flash.bin 0x00000
+Eagle.irom0text.bin 0x10000
+Esp_init_data_default.bin 0x3FC000
+Blank.bin 0x3FE000
+固件源代码
+ESP8266 Non-OS SDK V2.1.0
+下载链接：http://espressif.com/zh-hans/support/download/sdks-demos
+
+下载工具
+下载工具可以从乐鑫的官网下载：http://espressif.com/zh-hans/support/download/other-tools
+
+
+运行结果
+
+
+
+
+————————————————
+版权声明：本文为CSDN博主「mail-mail」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/crjmail/article/details/77839622
+
+-----------------------------------------
