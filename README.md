@@ -336,6 +336,7 @@ see [sketch_jun07a.ino](sketch_jun07a.ino)
 * search baidupan : esp-12f_信泰微  
 烧录方法   
 
-## 技小新esp8266开发板烧录方法：
+## 信泰微, 技小新esp8266开发板烧录方法：  
+ESP8266物联网开发板 sdk编程视频全套教程 wifi模块小系统板  
 [jixin.txt](jixin.txt)  
 search baidupan: readme_烧录方法.txt  
