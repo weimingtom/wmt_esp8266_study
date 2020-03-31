@@ -340,3 +340,6 @@ https://iot-playground.com/blog/2-uncategorised/40-esp8266-wifi-relay-switch-ard
 ESP8266物联网开发板 sdk编程视频全套教程 wifi模块小系统板  
 [jixin.txt](jixin.txt)  
 search baidupan: readme_烧录方法.txt  
+
+## Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX  
+https://github.com/arendst/Tasmota  
