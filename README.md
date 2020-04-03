@@ -343,3 +343,7 @@ search baidupan: readme_烧录方法.txt
 
 ## Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX  
 https://github.com/arendst/Tasmota  
+
+## ESP32-UART-Load-Bitmap  
+https://github.com/Deous/ESP32-UART-Load-Bitmap  
+search spi_device_transmit  
