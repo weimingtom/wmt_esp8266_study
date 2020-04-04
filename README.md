@@ -347,3 +347,6 @@ https://github.com/arendst/Tasmota
 ## ESP32-UART-Load-Bitmap  
 https://github.com/Deous/ESP32-UART-Load-Bitmap  
 search spi_device_transmit  
+
+## T-Watch  
+https://github.com/LilyGO/TTGO-T-Watch  
