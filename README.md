@@ -359,3 +359,6 @@ http://esp8266.net
 
 ## Atari 8 bit computers, NES and SMS game consoles on your TV with nothing more than a ESP32 and a sense of nostalgia  
 https://github.com/rossumur/esp_8_bit  
+
+## nanoESP32-S2  
+https://github.com/wuxx/nanoESP32-S2  
