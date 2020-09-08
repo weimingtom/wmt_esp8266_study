@@ -362,3 +362,8 @@ https://github.com/rossumur/esp_8_bit
 
 ## nanoESP32-S2  
 https://github.com/wuxx/nanoESP32-S2  
+
+## 在Arduino的IDE中支持ESP32S2的开发  
+https://blog.csdn.net/gonepoo/article/details/108130049  
+***NOTE***, change to esp32s2 branch  
+https://github.com/espressif/arduino-esp32/tree/esp32s2  
