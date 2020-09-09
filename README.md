@@ -367,3 +367,6 @@ https://github.com/wuxx/nanoESP32-S2
 https://blog.csdn.net/gonepoo/article/details/108130049  
 ***NOTE***, change to esp32s2 branch  
 https://github.com/espressif/arduino-esp32/tree/esp32s2  
+
+## ESP32-WiFi-Hash-Monster  
+https://github.com/G4lile0/ESP32-WiFi-Hash-Monster  
