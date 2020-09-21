@@ -374,3 +374,8 @@ https://github.com/G4lile0/ESP32-WiFi-Hash-Monster
 ## 8ms  
 https://github.com/wireless-tag-cn/lv_port_esp32  
 http://www.8ms.xyz  
+
+## MicroPython_ESP32_psRAM_LoBo  
+https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo  
+http://bbs.eeworld.com.cn/thread-617804-1-1.html  
+https://loboris.eu/forum/  
