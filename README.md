@@ -379,3 +379,8 @@ http://www.8ms.xyz
 https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo  
 http://bbs.eeworld.com.cn/thread-617804-1-1.html  
 https://loboris.eu/forum/  
+
+## ttgo vga32  
+* https://github.com/rampa069/ZX-ESPectrum  
+* https://github.com/rpsubc8/esp32gameboy  
+* https://github.com/LilyGO/FabGL/tree/master/images  
