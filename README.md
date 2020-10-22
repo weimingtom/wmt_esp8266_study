@@ -393,3 +393,6 @@ Complete interface builder for the M5Stack, an ESP32 based mini tinker-computer
 https://github.com/whitecatboard/Lua-RTOS-ESP32  
 https://github.com/loboris/Lua-RTOS-ESP32-lobo/tree/master/components/lua_rtos/Lua/common  
 https://github.com/whitecatboard/Lua-RTOS-ESP8266/blob/master/Lua/common/shell.l  
+
+## ESP-IDF  
+https://docs.espressif.com/projects/esp-idf/zh_CN/latest/esp32/get-started-legacy/windows-setup.html  
