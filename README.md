@@ -395,4 +395,5 @@ https://github.com/loboris/Lua-RTOS-ESP32-lobo/tree/master/components/lua_rtos/L
 https://github.com/whitecatboard/Lua-RTOS-ESP8266/blob/master/Lua/common/shell.l  
 
 ## ESP-IDF  
-https://docs.espressif.com/projects/esp-idf/zh_CN/latest/esp32/get-started-legacy/windows-setup.html  
+* https://docs.espressif.com/projects/esp-idf/zh_CN/latest/esp32/get-started-legacy/windows-setup.html  
+* search baidupan, esp-idf_20190103_v3.1.2.zip  
