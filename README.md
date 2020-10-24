@@ -397,3 +397,11 @@ https://github.com/whitecatboard/Lua-RTOS-ESP8266/blob/master/Lua/common/shell.l
 ## ESP-IDF  
 * https://docs.espressif.com/projects/esp-idf/zh_CN/latest/esp32/get-started-legacy/windows-setup.html  
 * search baidupan, esp-idf_20190103_v3.1.2.zip  
+
+## VMWare虚拟机串口烧录    
+用VMWare的串口重定向和虚拟机ubuntu安装ESP-IDF，成功烧录ESP32开发板NodeMCU-32S，方法如下：  
+* vmware连接串口：在启动vmware之前就要添加串口，并且确保宿主机windows的设备管理器能看到COM口。并且，记住在启动vmware后千万不能热插拔USB-TTL串口，否则会导致ubuntu的ttyS串口虽然可以正常打开，但不能正常工作。不建议使用vmware的USB功能去重定向串口，可能会导致USB设备驱动不正常（坑更大）。  
+* 用sudo putty从0开始逐个检测/dev/ttyS0和/dev/ttyS1，正常的话，/dev/ttyS1会看到乱码输出，否则会没有显示或根本无法打开。如果能检测到  
+* 如果make flash提示/dev/ttyS1没有权限：执行sudo chown wmt /dev/ttyS1（这里假设用户名为wmt），然后短接IO0（右下第6脚）到GND（左下第6脚），执行make flash即可烧录  
+* 烧录过程中需要关闭putty，否则无法烧录  
+* NodeMCU-32S的板载LED是GPIO2，所以如果要运行官方ESP-IDF里面的blink示例，需要在make menuconfig中修改LED的值为2才能看到正常的闪灯效果（否则只能在串口中看效果）  
