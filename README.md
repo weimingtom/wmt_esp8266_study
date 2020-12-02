@@ -405,3 +405,7 @@ https://github.com/whitecatboard/Lua-RTOS-ESP8266/blob/master/Lua/common/shell.l
 * 如果make flash提示/dev/ttyS1没有权限：执行sudo chown wmt /dev/ttyS1（这里假设用户名为wmt），然后短接IO0（右下第6脚）到GND（左下第6脚），执行make flash即可烧录  
 * 烧录过程中需要关闭putty，否则无法烧录  
 * NodeMCU-32S的板载LED是GPIO2，所以如果要运行官方ESP-IDF里面的blink示例，需要在make menuconfig中修改LED的值为2才能看到正常的闪灯效果（否则只能在串口中看效果）  
+
+## Aircoookie/WLED  
+Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!  
+https://github.com/Aircoookie/WLED  
