@@ -2,8 +2,26 @@
 My ESP8266 / ESP32 study  
 
 ## esp32 msys dev env    
+https://docs.espressif.com/projects/esp-idf/zh_CN/v3.1.7/get-started/index.html  
+https://docs.espressif.com/projects/esp-idf/zh_CN/v3.1.7/get-started/windows-setup.html  
 https://dl.espressif.com/dl/esp32_win32_msys2_environment_and_toolchain-20180110.zip  
 https://dl.espressif.com/dl/esp-idf/releases/esp-idf-v3.1.2.zip  
+https://dl.espressif.com/dl/esp-idf/releases/esp-idf-v3.1.7.zip  
+(double click mingw32.exe)  
+$ cd  
+$ mkdir esp  
+(unzip esp-idf-v3.1.2.zip to /msys32/home/a/esp)  
+$ cd esp/esp-idf/  
+$ export IDF_PATH=~/esp/esp-idf  
+$ cd $IDF_PATH/examples/get-started/hello_world  
+$ make clean
+$ make menuconfig  
+(press tab key, exit, wait GENCONFIG end)  
+$ make  
+LD build/hello-world.elf  
+esptool.py v2.6-beta1  
+To flash all build output, run 'make flash' or:  
+python /home/a/esp/esp-idf/components/esptool_py/esptool/esptool.py --chip esp32 --port /dev/ttyUSB0 --baud 115200 --before default_reset --after hard_reset write_flash -z --flash_mode dio --flash_freq 40m --flash_size detect 0x1000 /home/a/esp/esp-idf/examples/get-started/hello_world/build/bootloader/bootloader.bin 0x10000 /home/a/esp/esp-idf/examples/get-started/hello_world/build/hello-world.bin 0x8000 /home/a/esp/esp-idf/examples/get-started/hello_world/build/partitions_singleapp.bin  
 
 ## Arduino version flash and sram size:  
 * esp8266, NodeMCU 1.0 (ESP-12E Module), Arduino:  
