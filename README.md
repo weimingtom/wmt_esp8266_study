@@ -15,7 +15,7 @@ $ mkdir esp
 $ cd esp/esp-idf/  
 $ export IDF_PATH=~/esp/esp-idf  
 $ cd $IDF_PATH/examples/get-started/hello_world  
-$ make clean
+$ make clean  
 $ make menuconfig  
 (press tab key, exit, wait GENCONFIG end)  
 $ make  
