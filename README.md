@@ -24,6 +24,20 @@ esptool.py v2.6-beta1
 To flash all build output, run 'make flash' or:  
 python /home/a/esp/esp-idf/components/esptool_py/esptool/esptool.py --chip esp32 --port /dev/ttyUSB0 --baud 115200 --before default_reset --after hard_reset write_flash -z --flash_mode dio --flash_freq 40m --flash_size detect 0x1000 /home/a/esp/esp-idf/examples/get-started/hello_world/build/bootloader/bootloader.bin 0x10000 /home/a/esp/esp-idf/examples/get-started/hello_world/build/hello-world.bin 0x8000 /home/a/esp/esp-idf/examples/get-started/hello_world/build/partitions_singleapp.bin  
 
+## ESP32 firmware flash, with flash_download_tool    
+https://www.espressif.com/en/support/download/other-tools  
+Flash Download Tools (ESP8266 & ESP32 & ESP32-S2)  
+Windows PC	V3.8.5	2020.04.26	  
+https://www.espressif.com/sites/default/files/tools/flash_download_tool_v3.8.5.zip  
+(for NodeMCU-32S)  
+Example Configuration->blink gpio number->2  
+(CONFIG_BLINK_GPIO=2)  
+In flash_download_tool_3.8.5.exe:  
+bootloader.bin   0x1000  
+blink.bin  0x10000  
+partitions_singleapp.bin  0x8000  
+see https://docs.ai-thinker.com/esp_download  
+
 ## Arduino version flash and sram size:  
 * esp8266, NodeMCU 1.0 (ESP-12E Module), Arduino:  
 	Flash: 1044464=1019KB  
