@@ -464,3 +464,6 @@ https://github.com/Aircoookie/WLED
 
 ## coomiss旗舰店  
 https://github.com/IOT-MCU/ESP-12S-A9-A9G-GPRS-Node-v1.0  
+
+## 技术文档  
+https://www.espressif.com/zh-hans/support/documents/technical-documents  
