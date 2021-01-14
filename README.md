@@ -2,6 +2,7 @@
 My ESP8266 / ESP32 study  
 
 ## esp32 msys dev env    
+search baidupan, 快速入门.docx  
 https://docs.espressif.com/projects/esp-idf/zh_CN/v3.1.7/get-started/index.html  
 https://docs.espressif.com/projects/esp-idf/zh_CN/v3.1.7/get-started/windows-setup.html  
 https://dl.espressif.com/dl/esp32_win32_msys2_environment_and_toolchain-20180110.zip  
