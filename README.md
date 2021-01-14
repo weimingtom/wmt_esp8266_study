@@ -43,7 +43,7 @@ see https://docs.ai-thinker.com/esp_download
 （1）在官方的文档中下载windows工具链和3.1.7的esp-idf，不要自己git下载，因为这里涉及很多仓库检出，  
 比较麻烦，还是直接下载好了。下载两个压缩包后放在一起（我把esp-idf解压到esp/esp-idf下）  
 https://docs.espressif.com/projects/esp-idf/zh_CN/v3.1.7/get-started/index.html  
-（2）导出全局变量IDF_PATH，例如这样：export IDF_PATH=~/esp/esp-idf  
+（2）使用mingw32.exe启动命令行（不要用其他exe），然后导出全局变量IDF_PATH，例如这样：export IDF_PATH=~/esp/esp-idf  
 （3）编译examples/get-started/blink示例，在make menuconfig的时候把  
 Example Configuration->blink gpio number修改成2，因为NodeMCU-32S（安信可的开发板）  
 的灯是GPIO2控制的，然后make编译  
