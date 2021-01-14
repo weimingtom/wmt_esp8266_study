@@ -1,6 +1,10 @@
 ﻿# wmt_esp8266_study
 My ESP8266 / ESP32 study  
 
+## msys  
+https://dl.espressif.com/dl/esp32_win32_msys2_environment_and_toolchain-20180110.zip  
+https://dl.espressif.com/dl/esp-idf/releases/esp-idf-v3.1.2.zip  
+
 ## Arduino version flash and sram size:  
 * esp8266, NodeMCU 1.0 (ESP-12E Module), Arduino:  
 	Flash: 1044464=1019KB  
