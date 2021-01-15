@@ -1,6 +1,7 @@
 http://ultirobot.com/2018/06/14/phone-8266-at-lan/
+http://wiki.ultirobot.com/doku.php?id=通讯和数据传输:esp8266wifi透传模块
 
-机通过ESP8266控制Arduino上的LED灯(局域网AT指令方式）
+手机通过ESP8266控制Arduino上的LED灯(局域网AT指令方式）
  2018年6月14日 上午11:46  综合实验  25819 
 实验原理：手机通过手机软件，控制已经接上8266的Arduino半载LED灯的亮灭。
 实验步骤：
@@ -12,6 +13,15 @@ http://ultirobot.com/2018/06/14/phone-8266-at-lan/
 *CH_PD–3.3
 *RX–TX
 *TX–RX
+
+
+---
+ESP8266接口：
+UTXD   GND
+CH_PD(EN使能)  GPIO2
+GPIO16（RST复位） GPIO0（拉低烧录、悬空或拉高运行）
+VCC    URXD
+---
 
 
 AT指令
