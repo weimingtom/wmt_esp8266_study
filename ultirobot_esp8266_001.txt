@@ -21,6 +21,16 @@ UTXD   GND
 CH_PD(EN使能)  GPIO2
 GPIO16（RST复位） GPIO0（拉低烧录、悬空或拉高运行）
 VCC    URXD
+
+中贝斯特 ESP 01S S Serial  
+ESP8266 01
+ESP8266 01s
+
+pin face up (when pin face down, white point is VCC/3V3)  
+3V3 RX
+RST IO0
+EN IO2
+TX GND
 ---
 
 
