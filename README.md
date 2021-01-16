@@ -2,6 +2,7 @@
 My ESP8266 / ESP32 study  
 
 ## esp32 msys dev env    
+serach baidupan, esp32_blink_burn.jpg  
 search baidupan, 快速入门.docx  
 https://docs.espressif.com/projects/esp-idf/zh_CN/v3.1.7/get-started/index.html  
 https://docs.espressif.com/projects/esp-idf/zh_CN/v3.1.7/get-started/windows-setup.html  
