@@ -145,3 +145,9 @@ https://www.espressif.com/en/products/hardware/esp8266ex/resources
 原来，我们平常所说的esp8266，用英文的准确说法是esp8266系列的其中一个型号esp8266ex，只不过习惯了不叫ex而已。另外esp8266还有一个型号叫esp8285，不过esp8285很少时候需要用到，只是flash的大小增加了  
 http://esp8266.net  
 
+## cesanta/ESP8266_RTOS_SDK  
+https://github.com/cesanta/ESP8266_RTOS_SDK  
+https://github.com/espressif/ESP8266_RTOS_SDK  
+https://github.com/cesanta/esp-open-sdk  
+https://github.com/pfalcon/esp-open-sdk  
+
