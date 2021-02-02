@@ -153,3 +153,7 @@ https://github.com/pfalcon/esp-open-sdk
 
 ## ESP8266_NONOS_SDK  
 https://github.com/espressif/ESP8266_NONOS_SDK  
+
+## samples  
+https://github.com/espressif/esp8266-nonos-sample-code  
+https://www.espressif.com/sites/default/files/documentation/2a-esp8266-sdk_getting_started_guide_cn.pdf  
