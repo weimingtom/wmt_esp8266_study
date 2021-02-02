@@ -151,3 +151,5 @@ https://github.com/espressif/ESP8266_RTOS_SDK
 https://github.com/cesanta/esp-open-sdk  
 https://github.com/pfalcon/esp-open-sdk  
 
+## ESP8266_NONOS_SDK  
+https://github.com/espressif/ESP8266_NONOS_SDK  
