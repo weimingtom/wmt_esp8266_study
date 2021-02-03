@@ -157,3 +157,9 @@ https://github.com/espressif/ESP8266_NONOS_SDK
 ## samples  
 https://github.com/espressif/esp8266-nonos-sample-code  
 https://www.espressif.com/sites/default/files/documentation/2a-esp8266-sdk_getting_started_guide_cn.pdf  
+
+## ESP8266 toolchain    
+* see https://github.com/espressif/ESP8266_RTOS_SDK  
+* https://dl.espressif.com/dl/xtensa-lx106-elf-gcc8_4_0-esp-2020r3-win32.zip  
+* see https://www.cnblogs.com/dongxiaodong/p/12905967.html  
+* https://dl.espressif.com/dl/xtensa-lx106-elf-win32-1.22.0-100-ge567ec7-5.2.0.zip  
