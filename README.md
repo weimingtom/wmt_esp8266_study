@@ -163,3 +163,7 @@ https://www.espressif.com/sites/default/files/documentation/2a-esp8266-sdk_getti
 * https://dl.espressif.com/dl/xtensa-lx106-elf-gcc8_4_0-esp-2020r3-win32.zip  
 * see https://www.cnblogs.com/dongxiaodong/p/12905967.html  
 * https://dl.espressif.com/dl/xtensa-lx106-elf-win32-1.22.0-100-ge567ec7-5.2.0.zip  
+
+## ESP8266 NONOS SDK开发初探各种报错解决方法（一）  
+https://blog.csdn.net/weixin_43128823/article/details/108058537  
+原来需要手动将demo，放到根目录才行  
