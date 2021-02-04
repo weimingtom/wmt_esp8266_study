@@ -178,3 +178,13 @@ https://github.com/esp8266/esp8266-wiki/raw/master/libs/libc.a
 ## ESP8266 NONOS SDK开发初探各种报错解决方法（一）  
 https://blog.csdn.net/weixin_43128823/article/details/108058537  
 原来需要手动将demo，放到根目录才行  
+
+## SPI_SIZE_MAP ?= 4  
+32Mbits==4MB  
+初学ESP8266所遇到的坑  
+https://www.pianshen.com/article/892640775/  
+ESP8266 烧写选项 Flash Size 32M和32M-c1的区别  
+https://blog.csdn.net/toopoo/article/details/86415497  
+esp8266 SDK3.0 spi_size_map设置 12f NORTOS问题解决方法  
+https://blog.csdn.net/a1058191679/article/details/102644915  
+
