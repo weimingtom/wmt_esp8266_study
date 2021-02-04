@@ -1,6 +1,9 @@
 ﻿# wmt_esp8266_study
 My ESP8266 / ESP32 study  
 
+## msys  
+* search baidupan, msys_ESP8266_NONOS_SDK_v2.2.1_v3.rar  
+
 ## Arduino version flash and sram size:  
 * esp8266, NodeMCU 1.0 (ESP-12E Module), Arduino:  
 	Flash: 1044464=1019KB  
