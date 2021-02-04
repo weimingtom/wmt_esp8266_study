@@ -167,6 +167,11 @@ https://www.espressif.com/sites/default/files/documentation/2a-esp8266-sdk_getti
 * see https://docs.espressif.com/projects/esp8266-rtos-sdk/en/latest/get-started/windows-setup.html  
 * https://dl.espressif.com/dl/xtensa-lx106-elf-win32-1.22.0-88-gde0bdc1-4.8.5.tar.gz  
 
+## ESP8266工具链4.8.5编译缺少libmesh.a跟libc.a跟libhal.a  
+https://blog.csdn.net/weixin_42276326/article/details/108422865  
+https://github.com/esp8266/esp8266-wiki/raw/master/libs/libhal.a  
+https://github.com/esp8266/esp8266-wiki/raw/master/libs/libc.a  
+
 ## ESP8266 NONOS SDK开发初探各种报错解决方法（一）  
 https://blog.csdn.net/weixin_43128823/article/details/108058537  
 原来需要手动将demo，放到根目录才行  
