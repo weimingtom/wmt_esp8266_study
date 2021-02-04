@@ -164,6 +164,7 @@ https://www.espressif.com/sites/default/files/documentation/2a-esp8266-sdk_getti
 * see https://www.cnblogs.com/dongxiaodong/p/12905967.html  
 * https://dl.espressif.com/dl/xtensa-lx106-elf-win32-1.22.0-100-ge567ec7-5.2.0.zip  
 * see https://github.com/espressif/ESP8266_RTOS_SDK/issues/843  
+* see https://docs.espressif.com/projects/esp8266-rtos-sdk/en/latest/get-started/windows-setup.html  
 * https://dl.espressif.com/dl/xtensa-lx106-elf-win32-1.22.0-88-gde0bdc1-4.8.5.tar.gz  
 
 ## ESP8266 NONOS SDK开发初探各种报错解决方法（一）  
