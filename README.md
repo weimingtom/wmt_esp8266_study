@@ -188,3 +188,7 @@ https://blog.csdn.net/toopoo/article/details/86415497
 esp8266 SDK3.0 spi_size_map设置 12f NORTOS问题解决方法  
 https://blog.csdn.net/a1058191679/article/details/102644915  
 
+## ESP8266 SDK开发基础入门  
+3-ESP8266 SDK开发基础入门篇--点亮一个灯  
+https://www.cnblogs.com/yangfengwu/p/11073055.html  
+https://gitee.com/yang456/Learn8266SDKDevelop.git  
