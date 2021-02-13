@@ -193,3 +193,13 @@ https://blog.csdn.net/a1058191679/article/details/102644915
 3-ESP8266 SDK开发基础入门篇--点亮一个灯  
 https://www.cnblogs.com/yangfengwu/p/11073055.html  
 https://gitee.com/yang456/Learn8266SDKDevelop.git  
+
+## Blynk  
+使用ESP8266和Blynk制作物联网控制的机器小车  
+https://www.yiboard.com/forum.php?mod=viewthread&tid=1258  
+https://community.blynk.cc/t/new-blynk-library-release-v0-5-4/28463  
+BlynkSimpleEsp8266  
+https://github.com/blynkkk/blynk-library  
+https://github.com/blynkkk/blynk-library/blob/master/src/BlynkSimpleEsp8266.h  
+https://examples.blynk.cc  
+https://blynk.io/  
