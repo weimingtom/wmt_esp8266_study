@@ -5,6 +5,9 @@ My ESP8266 / ESP32 study
 * search baidupan, msys_ESP8266_NONOS_SDK_v2.2.1_v3.rar  
 * msys_ESP8266_NONOS_SDK_v2.2.1_v7_blink_success.rar  
 
+## **TODO**  
+search baidupan, ESP8266机智云开发板 ESP12F  
+
 ## Arduino version flash and sram size:  
 * esp8266, NodeMCU 1.0 (ESP-12E Module), Arduino:  
 	Flash: 1044464=1019KB  
