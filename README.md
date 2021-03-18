@@ -207,7 +207,7 @@ https://github.com/blynkkk/blynk-library/blob/master/src/BlynkSimpleEsp8266.h
 https://examples.blynk.cc  
 https://blynk.io/  
 
-## Arduino ESP8266插件离线安装包   
+## Arduino IDE ESP8266插件离线安装包   
 search baidupan, 8266_package_2.6.3.exe  
 https://gitee.com/armxu/arduino8266_smartconfig_liangba  
 Arduino IDE下载（7月16日更新到1.8.13）    
