@@ -216,3 +216,6 @@ https://www.arduino.cc/en/software
 wifiduino
 https://openjumper.cn/wifiduino/  
 
+## Tasmota  
+https://github.com/arendst/Tasmota  
+智能家居, 免编程ESP8266固件  
