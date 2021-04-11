@@ -219,3 +219,6 @@ https://openjumper.cn/wifiduino/
 ## Tasmota  
 https://github.com/arendst/Tasmota  
 智能家居, 免编程ESP8266固件  
+
+## A full functional WiFi Repeater (correctly: a WiFi NAT Router)  
+https://github.com/martin-ger/esp_wifi_repeater  
