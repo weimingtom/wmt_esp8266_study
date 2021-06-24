@@ -239,3 +239,6 @@ search baidupan gokit3, include stm32 and arduino uno
 实际上可以整理简化一下，只剩下点灯外设，甚至可能那些ESP8266的API  
 调用固件是不开源的。只是目前似乎还没有较好的物联网相关的收集，  
 真的要深入研究的话还是比较吃力，我打算以后学前端技术时会顺便做这方面的整理  
+
+## Get started with Arduino, D1/D1 mini series  
+https://www.wemos.cc/en/latest/tutorials/d1/get_started_with_arduino_d1.html  
