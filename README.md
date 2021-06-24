@@ -225,3 +225,17 @@ https://github.com/martin-ger/esp_wifi_repeater
 
 ## ESP8266 Deauther Version 2  
 https://github.com/SpacehuhnTech/esp8266_deauther  
+
+## 机智云
+gokit  
+http://docs.gizwits.com/zh-cn/deviceDev/ArduinoUNO/ArduinoUNOWiFi_intro.html  
+search baidupan gokit3, include stm32 and arduino uno  
+
+## iot  
+先不说物联网的服务端，如果只研究硬件ESP8266和ESP32，  
+可以参考的资料其实很少，比较友好的只有安信可和零知实验室。  
+所以剩下能参考的只有那些闭源服务平台，例如blynk和blinker。  
+我发现机智云（gokit）也提供不错的代码资料，支持arduino uno和stm32。  
+实际上可以整理简化一下，只剩下点灯外设，甚至可能那些ESP8266的API  
+调用固件是不开源的。只是目前似乎还没有较好的物联网相关的收集，  
+真的要深入研究的话还是比较吃力，我打算以后学前端技术时会顺便做这方面的整理  
