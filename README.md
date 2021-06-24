@@ -222,3 +222,6 @@ https://github.com/arendst/Tasmota
 
 ## A full functional WiFi Repeater (correctly: a WiFi NAT Router)  
 https://github.com/martin-ger/esp_wifi_repeater  
+
+## ESP8266 Deauther Version 2  
+https://github.com/SpacehuhnTech/esp8266_deauther  
