@@ -245,3 +245,6 @@ https://www.wemos.cc/en/latest/tutorials/d1/get_started_with_arduino_d1.html
 
 ## Core-ESP8266, 银尔达, yinerda, 基于庆科 ESP8266-12F  
 http://wiki.yinerda.com/index.php/Core-ESP8266  
+
+## WeMos D1 & D1 mini Arduino Examples, Arduino IDE  
+https://github.com/wemos/D1_mini_Examples  
