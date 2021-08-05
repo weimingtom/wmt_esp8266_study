@@ -248,3 +248,7 @@ http://wiki.yinerda.com/index.php/Core-ESP8266
 
 ## WeMos D1 & D1 mini Arduino Examples, Arduino IDE  
 https://github.com/wemos/D1_mini_Examples  
+
+## TKM32F499 esp8266 at command drivers demos    
+search baidupan, TKM32F499评估板.rar, 24、ESP8266_WIFI模块3种例程(含APP).rar    
+
