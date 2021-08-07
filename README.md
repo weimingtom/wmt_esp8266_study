@@ -252,3 +252,8 @@ https://github.com/wemos/D1_mini_Examples
 ## TKM32F499 esp8266 at command drivers demos    
 search baidupan, TKM32F499评估板.rar, 24、ESP8266_WIFI模块3种例程(含APP).rar    
 
+## stm32的esp8266透传代码  
+https://github.com/Embedfire-WiFi-esp/ebf_wifi_esp8266_code  
+https://gitee.com/Embedfire-WiFi-esp/ebf_wifi_esp8266_code  
+search ESP8266_StaTcpClient_UnvarnishTest  
+see TKM32F499评估板.rar  
