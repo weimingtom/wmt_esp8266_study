@@ -261,3 +261,6 @@ see TKM32F499评估板.rar
 
 ## A wifi webradio with only low cost boards ESP8266 and VS1053 by Jp Cocatrix  
 https://github.com/karawin/Ka-Radio  
+
+## A MIni 资料, 桌面天气时钟, 云梦泽创作空间  
+* 8266_package_2.7.4.exe  
