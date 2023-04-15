@@ -1,5 +1,9 @@
-﻿# wmt_esp8266_study
+# wmt_esp8266_study
 My ESP8266 / ESP32 study  
+
+## A MIni 资料, H 安装包, A 源码, SmallDesktopDisplay  
+* use arduino-1.8.7 (1.8.4 is tested OK)  
+* Arduino package version 2.7.4  
 
 ## msys  
 * search baidupan, msys_ESP8266_NONOS_SDK_v2.2.1_v3.rar  
