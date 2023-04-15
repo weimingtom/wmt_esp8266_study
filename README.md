@@ -52,6 +52,8 @@ https://github.com/SmartArduino/SZDOITWiKi/wiki/ESP8266---ESP32
 https://github.com/esp8266/Arduino/blob/master/doc/libraries.rst  
 **IMPORTANT**  
 http://arduino.esp8266.com/stable/package_esp8266com_index.json  
+or
+https://arduino.esp8266.com/stable/package_esp8266com_index.json  
 
 * ESP8266 Arduino 2.2.0  
 https://esp8266.github.io/Arduino/versions/2.2.0/doc/installing.html  
