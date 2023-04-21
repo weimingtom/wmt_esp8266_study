@@ -272,3 +272,6 @@ https://github.com/karawin/Ka-Radio
 
 ## A MIni 资料, 桌面天气时钟, 云梦泽创作空间  
 * 8266_package_2.7.4.exe  
+
+## greblus/esp8266-32  
+* https://github.com/greblus/esp8266-32  
