@@ -274,4 +274,7 @@ https://github.com/karawin/Ka-Radio
 * 8266_package_2.7.4.exe  
 
 ## greblus/esp8266-32  
-* https://github.com/greblus/esp8266-32  
+* https://github.com/greblus/esp8266-32
+
+## esp8266-weather-station  
+* https://github.com/ThingPulse/esp8266-weather-station   
