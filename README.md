@@ -127,7 +127,8 @@ https://blog.csdn.net/u010898329/article/details/82833893
 https://blog.csdn.net/xiaohupashu/article/details/53574859  
 
 ## ESP8266 常见问题, 安信可    
-https://wiki.ai-thinker.com/esp8266/faq  
+(old, dead) https://wiki.ai-thinker.com/esp8266/faq  
+https://docs.ai-thinker.com/esp8266/faq  
 
 ## esp8266 Summary Table  
 https://www.esp8266.com/wiki/doku.php?id=esp8266-module-family  
