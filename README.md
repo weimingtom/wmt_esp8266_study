@@ -106,8 +106,10 @@ https://www.instructables.com/id/Portable-installation-guide-of-Arduino-IDE-v165
 Choose board 'NodeMCU 1.0 (ESP-12E Module)' in Arduino IDE for new nodemcu devkit bought from ai-thinker, don't use 'NodeMCU 0.9'   
 https://github.com/nodemcu/nodemcu-devkit-v1.0  
 https://github.com/nodemcu/nodemcu-devkit  
-http://wiki.ai-thinker.com/esp8266/boards/nodemcu  
-http://wiki.ai-thinker.com/esp32/boards/nodemcu_32s  
+(old, dead) http://wiki.ai-thinker.com/esp8266/boards/nodemcu  
+https://docs.ai-thinker.com/esp8266/boards/nodemcu
+(old, dead) http://wiki.ai-thinker.com/esp32/boards/nodemcu_32s  
+https://docs.ai-thinker.com/esp32/boards/nodemcu_32s  
 
 ## doit  
 http://bbs.doit.am/forum.php  
